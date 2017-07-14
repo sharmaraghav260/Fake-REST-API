@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "json:server": "json-server --watch db.json",
+    "json:server:remote": "json-server https://jsonplaceholder.typicode.com/db",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
