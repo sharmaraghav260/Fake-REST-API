@@ -1,0 +1,27 @@
+{
+  "name": "fake-rest-api",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmaraghav260/Fake-REST-API.git"
+  },
+  "keywords": [
+    "JSON",
+    "REST",
+    "API"
+  ],
+  "author": "Raghav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharmaraghav260/Fake-REST-API/issues"
+  },
+  "homepage": "https://github.com/sharmaraghav260/Fake-REST-API#readme",
+  "dependencies": {
+    "json-server": "^0.11.2"
+  }
+}
